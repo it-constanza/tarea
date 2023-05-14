@@ -1,5 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+</style>
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2023;
+    font-family: 'Roboto', sans-serif;
+    justify-content: center;
+    align-items: center;
+    }
+
+h1
+{
+    background-color: #1f2023;
+    color: #ffffff;
+}
+
+fieldset {
+    background-color: #a6c1b9;
+}
+
+legend {
+    background-color: #2b3d37;
+    color:#ffffff ;
+}
+
+label {
+    
+}
+
+div
+{
+    margin: 5px;
+  
 }
